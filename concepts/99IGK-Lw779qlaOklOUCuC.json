@@ -42,6 +42,5 @@
     "var" : "folder"
   }, {
     "var" : "repo"
-  } ],
-  "isLambda" : false
+  } ]
 }
