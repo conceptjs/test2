@@ -1,7 +1,8 @@
-## This is an auto-generated export of a ConceptJS repository
-- [Launch the repository in ConceptJS](https://conceptjs.com/launch) to view and edit the code and data in this repository. 
-- If you are not the owner, you can fork this repository in GitHub, and click the above link to launch your own copy. 
-- If you are the owner, you can [synchronize this repo](https://conceptjs/launch?mode=sync) with ConceptJS. 
+This is an export of a ConceptJS repository. You can: 
+- [Launch the repo](https://conceptjs.com/launch) on ConceptJS. The footer includes links to view and edit the code/data behind the concepts. 
+- *(Owner only)* [Synchronize the repo](https://conceptjs/launch?mode=manage) with ConceptJS. 
+- *(Contributors)* Fork this repo in GitHub and click the 'Launch' link to *deploy your fork* to ConceptJS. You can sync back your changes to GitHub and generate a pull request.
 
 The code for the following concepts can be found here: 
+
 - [99IGK\-Lw779qlaOklOUCuC.json](99IGK-Lw779qlaOklOUCuC.json): test2 \(Repository\)
