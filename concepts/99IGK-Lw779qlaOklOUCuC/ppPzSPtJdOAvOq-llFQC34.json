@@ -9,7 +9,7 @@
   "vars" : [ {
     "name" : "_cssResource_css",
     "expr" : {
-      "str" : "/* Something to test -- a merge update, del */\n.foo {\n    font-size: 10px;\n}"
+      "str" : "/* Something to test -- a merge update, del. turn #2 */\n.foo {\n    font-size: 10px;\n}"
     }
   }, {
     "name" : "_cssResource_fileName",
