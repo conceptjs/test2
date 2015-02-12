@@ -9,7 +9,7 @@
   "vars" : [ {
     "name" : "_cssResource_css",
     "expr" : {
-      "str" : "/* Something to test */"
+      "str" : "/* Something to test */\n.foo {\n    font-size: 10px;\n}"
     }
   }, {
     "name" : "_cssResource_fileName",
