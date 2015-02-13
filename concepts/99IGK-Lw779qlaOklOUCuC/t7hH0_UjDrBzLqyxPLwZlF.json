@@ -3,13 +3,12 @@
   "name" : "test2.js",
   "category" : "js",
   "parent" : "local://99IGK-Lw779qlaOklOUCuC/",
-  "pname" : "test2 (Repository)",
   "flags" : "U",
   "lvars" : [ ],
   "vars" : [ {
     "name" : "_javascriptResource_js",
     "expr" : {
-      "str" : "// Enter Javascript code -- again"
+      "str" : "// Enter Javascript code -- again\n\nThis file is changed."
     }
   }, {
     "name" : "_javascriptResource_fileName",
@@ -20,7 +19,6 @@
     "name" : "javascriptResource",
     "expr" : {
       "concept" : "/common/core/nK_9eZMUDp8T6qqr7t5k67/",
-      "conceptName" : "Javascript Resource",
       "bindings" : {
         "js" : "_javascriptResource_js",
         "fileName" : "_javascriptResource_fileName"
@@ -29,6 +27,5 @@
   } ],
   "isas" : [ {
     "var" : "javascriptResource"
-  } ],
-  "isLambda" : false
+  } ]
 }
