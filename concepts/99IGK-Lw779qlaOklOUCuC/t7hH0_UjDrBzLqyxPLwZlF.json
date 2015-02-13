@@ -8,7 +8,7 @@
   "vars" : [ {
     "name" : "_javascriptResource_js",
     "expr" : {
-      "str" : "// Enter Javascript code -- again\n\nThis file is changed."
+      "str" : "// Enter Javascript code -- again\n\nThis file is changed again with new lines."
     }
   }, {
     "name" : "_javascriptResource_fileName",
