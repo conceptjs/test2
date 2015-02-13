@@ -5,4 +5,4 @@ This is an export of a ConceptJS repository. You can:
 
 The code for the following concepts can be found here: 
 
-- [99IGK\-Lw779qlaOklOUCuC.json](99IGK-Lw779qlaOklOUCuC.json): test2 \(Repository\)
+- [99IGK\-Lw779qlaOklOUCuC.json](99IGK-Lw779qlaOklOUCuC.json): test2\-repo \(Repository\)
