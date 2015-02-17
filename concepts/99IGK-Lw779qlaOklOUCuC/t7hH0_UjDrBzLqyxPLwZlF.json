@@ -8,7 +8,7 @@
   "vars" : [ {
     "name" : "_javascriptResource_js",
     "expr" : {
-      "str" : "// Enter Javascript code -- again\n\nThis file is changed again with new lines."
+      "str" : "// Enter Javascript code -- again\n\nThis file is changed again with new lines.  make some changes in ConceptJS"
     }
   }, {
     "name" : "_javascriptResource_fileName",
@@ -27,5 +27,6 @@
   } ],
   "isas" : [ {
     "var" : "javascriptResource"
-  } ]
+  } ],
+  "isLambda" : false
 }
