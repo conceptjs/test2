@@ -19,22 +19,23 @@
     "name" : "folder",
     "expr" : {
       "concept" : "/common/core/wsKVkUn9bNAX_qlv_2Nvm6/",
+      "conceptName" : "Folder",
       "bindings" : {
         "name" : "folderName",
         "description" : "_folder_description"
       }
     }
   }, {
-    "name" : "_repo_repoUri",
+    "name" : "_repo_holder",
     "expr" : {
-      "str" : "/common/test2/"
+      "str" : ""
     }
   }, {
     "name" : "repo",
     "expr" : {
       "concept" : "/common/core/dikjRMQUWrB_rK4hvxvxP8/",
       "bindings" : {
-        "repoUri" : "_repo_repoUri"
+        "holder" : "_repo_holder"
       }
     }
   } ],
@@ -42,5 +43,6 @@
     "var" : "folder"
   }, {
     "var" : "repo"
-  } ]
+  } ],
+  "isLambda" : false
 }
